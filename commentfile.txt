@@ -1,0 +1,1 @@
+created to differentiation first branch and understand how commit, pull push branching works in git
