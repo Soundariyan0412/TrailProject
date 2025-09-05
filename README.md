@@ -1,2 +1,2 @@
-# TrailPProject
+# TrailProject
 Github learning project
